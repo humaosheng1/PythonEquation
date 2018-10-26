@@ -24,3 +24,4 @@ def quadratic(a, b, c):
         else:
             return y1,y2
 
+print (quadratic(a,b,c))
